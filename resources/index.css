@@ -3,6 +3,19 @@
   text-align: center;
 }
 
+#index {
+  background-image: url(the-flatiron-building.png);
+}
+
+h1 {
+  font-size: 70px;
+  color: white;
+}
+
+ul {
+  list-style: none;
+}
+
 h1, h2, h3 {
   font-weight: bold;
 }
@@ -24,12 +37,18 @@ p {
   font-size: 14px;
 }
 
-#new york {
+#NY {
   color:white;
+  background-image: url(the-flatiron-building.png);
 }
 
-footer {
+h4 {
+  background-color: dimgray;
   text-align: left;
   color: white;
   font-size: 11px;
+}
+
+h4 a {
+  color: white;
 }
